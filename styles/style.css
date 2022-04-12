@@ -49,3 +49,21 @@ a:hover {
    color:var(--secondary);
    border:var(--secondary);
 }
+
+.blue{
+   background:blue;
+   color:blueviolet;
+   border:var(--secondary);
+}
+
+.yellow {
+   background-color: yellow;
+   color:red;
+   border:yellow;
+}
+
+.green {
+   background-color: rgb(33, 223, 16);
+   color:greenyellow;
+   border:greenyellow;
+}
