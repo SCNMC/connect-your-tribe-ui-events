@@ -1,6 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel UI events
+## UI events
 <!-- Geef je project een titel en schrijf in één zin wat het is --><img width="1440" alt="Schermafbeelding 2022-04-18 om 00 05 32" src="https://user-images.githubusercontent.com/90189750/163733885-f2145bd3-b087-44b9-8a5b-bf2bb6c0639d.png">
 
 
