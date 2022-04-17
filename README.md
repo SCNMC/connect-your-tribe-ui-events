@@ -7,10 +7,12 @@
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+Oefenen met verschillende clickEvents met behulp van Javascript!
 
 ## Experimenten
 <!-- In de Experimenten beschrijf je wat je per experimnet hebt gedaan en documenteer je de code aan de hand van voorbeelden -->
 <!-- Voeg een mooie poster visual toe 📸 per experiment -->
+<img width="404" alt="Schermafbeelding 2022-04-18 om 00 08 36" src="https://user-images.githubusercontent.com/90189750/163733976-6b1de49a-6a6e-40ee-ae89-795bdcdf1fcf.png">
 
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
