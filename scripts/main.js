@@ -1,6 +1,5 @@
 const buttons= document.querySelectorAll("a")
 
-
 buttons.forEach(button=>{
 
     button.addEventListener('click', onClick)

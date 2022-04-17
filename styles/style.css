@@ -44,26 +44,20 @@ a:hover {
  a:focus {
    transform: scale(1);
  }
-.purple{
-   background:var(--highlight-secondary);
-   color:var(--secondary);
-   border:var(--secondary);
-}
 
 .blue{
-   background:blue;
-   color:blueviolet;
-   border:var(--secondary);
+   background: #00539CFF;
+   color:#EEA47FFF;;
 }
 
 .yellow {
-   background-color: yellow;
-   color:red;
+   background-color:#101820FF;
+   color:#FEE715FF;
    border:yellow;
 }
 
 .green {
-   background-color: rgb(33, 223, 16);
-   color:greenyellow;
+   background-color:  #CCF381,;
+   color:#4831D4;
    border:greenyellow;
 }
